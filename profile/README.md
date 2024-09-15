@@ -2,7 +2,7 @@
 
 # Novaware Open Source
 
-![Untitled-1](https://github.com/user-attachments/assets/4546a666-d4f6-4a81-b7f5-181c4a9447b6)
+![novawareeee](https://github.com/user-attachments/assets/e2df01c1-1a8e-4daf-b9cd-e458f4ba1e74)
 
 Not much on here at the moment but we'll be cooking soon enough ✨
 
