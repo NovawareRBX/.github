@@ -1,9 +1,10 @@
 <div align="center">
 
-![novaware bannnerrr](https://github.com/user-attachments/assets/3180ab9e-f66c-407e-993f-380aecc04253)
+![open source](https://github.com/user-attachments/assets/ec23a48a-7016-41c0-96bb-dbebb9a20ca3)
 
 # Novaware Open Source
 
-🌍 We make some of the most innovative tech for games on Roblox.
+At Novaware, we use cutting-edge technology to create immersive Roblox experiences.  
+🌐 Our commitment to the community extends to open-sourcing many of our backend services.
 
 </div>
