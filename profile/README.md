@@ -1,10 +1,10 @@
 <div align="center">
-
-![open source](https://github.com/user-attachments/assets/ec23a48a-7016-41c0-96bb-dbebb9a20ca3)
-
-# Novaware Open Source
-
-At Novaware, we use cutting-edge technology to create immersive Roblox experiences.  
-🌐 Our commitment to the community extends to open-sourcing many of our backend services.
-
+  <img src="https://github.com/user-attachments/assets/5ebaacfa-2f36-4a99-8b49-dd346306f44d" width="800" alt="Novaware Logo">
+  
+  <h1>Novaware OSS</h1>
+  
+  <p>
+    🚀 Pushing the boundaries of Roblox development with cutting-edge technology.<br>
+    🌐 Committed to innovation, we open-source many of our backend services to empower the community.
+  </p>
 </div>
