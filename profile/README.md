@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/5ebaacfa-2f36-4a99-8b49-dd346306f44d" width="800" alt="Novaware Logo">
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/e3eb82eb-2566-4bf4-bff7-d3e9145f56be" width="800" alt="Novaware Logo">
   
   <h1>Novaware OSS</h1>
   
